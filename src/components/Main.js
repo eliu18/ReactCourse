@@ -1,11 +1,12 @@
 import React from "react";
 import "../components/Main.css";
+import GeometricShapes from "../components/GeometricShapes";
 function Main() {
     return (
         <div>
-            {/* <div className="block1"></div>
-            <div className="block2"></div> */}
-            <p>Here it will be all the content of the page...</p>
+            <GeometricShapes shape="square" color="blue"/>
+            <GeometricShapes shape="triangle" color="red"/>
+            <GeometricShapes shape="rectangle" color="yellow"/>
         </div>
     )
 }
