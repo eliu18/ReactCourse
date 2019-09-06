@@ -1,0 +1,12 @@
+.block1 {
+    width: 300px;
+    height: 100px;
+    background: lawngreen;
+    margin-bottom: 2rem;
+  }
+  .block2 {
+    width: 300px;
+    height: 100px;
+    background: orange;
+    margin-top: 1rem;
+  }
