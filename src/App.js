@@ -6,7 +6,7 @@ import Main from "./components/Main";
 function App() {
   return (
     <div>
-      <Header />
+      <Header name="Eliu"/>
       <Main />
       <Footer />
     </div>
